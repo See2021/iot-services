@@ -41,3 +41,9 @@ by uncomment
 this username and password should be the same with credential setup
 
 ####################################################################
+
+################### Restart telegraf container #####################
+
+docker container restart telegraf
+
+####################################################################
